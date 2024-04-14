@@ -14,7 +14,7 @@ Moss Veil is a 2D game that invites players into the tranquil yet adventurous jo
 Moss Veil's main theme revolves around mental health awareness, aiming to raise attention to the diverse facets of mental health issues prevalent in contemporary society. Unlike many other games addressing similar topics, Moss Veil offers a non-depressive approach, focusing on providing a relaxing and healing experience for players.
 
 **How to Play:**
-- Use the keyboard controls (A,S,D) and spacebar to naviagte and jump around the map.
+- Use the keyboard controls (A,S,D) to naviagte, spacebar to jump, Left Shift to dash and holding to turn into a rock.
 - Explore the environment, interact with objects, and overcome obstacles.
 - Pay attention to the subtle narrative elements that shed light on mental health issues.
 
